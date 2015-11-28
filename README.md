@@ -1,4 +1,6 @@
-BundleTestProject
+Symfony2 Bundles Test Project
 =================
 
-A Symfony project created on November 28, 2015, 2:32 am.
+I will test Symfony bundles with every commit. You can check basic bundle installation with bundle installation commit.
+
+Don 't be shy. You can clone and try a bundle and send me an PR.
